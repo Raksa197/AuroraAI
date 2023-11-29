@@ -1,12 +1,20 @@
-# Create T3 App
+# Aurora AI Final Year Project
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+Transforming Imagination into Reality: Aurora AI – Your Premier Avatar Generation Service
 
-## What's next? How do I make an app with this?
+## Introduction
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+Our project proposes an AI avatar generation system that utilizes advanced deep learning algorithms to generate highly accurate and visually appealing avatars from user photos. By leveraging the power of artificial intelligence, we aim to provide users with an effortless and personalized avatar creation experience such as: 
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+-User Registration: Users will be able to create an account on the website, providing their necessary information for authentication and access to avatar generation features.
+-Image Upload: Users will have the ability to upload a minimum of 10 images of themselves, which will be used for avatar generation.
+-Avatar Generation: The website will utilize advanced artificial intelligence algorithms to generate personalized avatar images based on the uploaded images.
+-Customization: Users will be able to customize their avatar images by providing prompts that influence the generation process.
+-Secure Payment System: Integration of a secure payment system to handle credit card information for user authentication.
+
+## Technology Used 
+
+Here are the main technologies that we have included in our projects:
 
 - [Next.js](https://nextjs.org)
 - [NextAuth.js](https://next-auth.js.org)
@@ -14,15 +22,15 @@ If you are not familiar with the different technologies used in this project, pl
 - [Tailwind CSS](https://tailwindcss.com)
 - [tRPC](https://trpc.io)
 
-## Learn More
+## PROJECT DOCUMENTS
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
+To learn more about our project: you can take a look at our project documents and other references:
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+- [Final Documentation](https://docs.google.com/document/d/11hj-kQjRJqHMhWkpFlHfbWiTU1y-k7qA/edit?usp=sharing&ouid=100801675052888821629&rtpof=true&sd=true)
+- [Scope Document](https://docs.google.com/document/d/1wUh07J0e1cKUV2pvRpG6gZ6MVgcf-9ut/edit) — Check out our documentations for this project
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+
 
 ## How do I deploy this?
 
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+You can refer to these references for the deployment tips: [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
